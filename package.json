@@ -1,6 +1,8 @@
 {
   "name": "auth-sample-2023-ts",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": "Mohammad Taheri (mamad.taheri.68@gmail.com)",
+  "description": "Implement Authentication-based access to resources in React.JS and TypeScript",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",

@@ -1,21 +1,17 @@
-Reactjs test:
+# Auth Sample With Typescript 2023
 
- 
+## Version: 1.0.0
 
-Please create a web app by reactjs.
+## What is this project?
 
- In this app users can login to app and see users list.
+Implementing Authentication-based access to resources in React.JS and TypeScript
 
-you should use ‘https://reqres.in’ web services
+## User Stories
 
- 
+-  User can login to system (/api/login)
 
-features:
+-  Authenticated user can see users list (/api/users?page=2)
 
-User can login to system (/api/login)
+-  Authenticated user can see an user detail (use above web service)
 
-Authenticated user can see users list (/api/users?page=2)
-
-Authenticated user can see an user detail (use above web service)
-
-Authenticated user can logout
+-  Authenticated user can logout
