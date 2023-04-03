@@ -1,0 +1,33 @@
+.navbar {
+   width: 100%;
+   height: 60px;
+   color: #fff;
+   background-color: rgb(46, 47, 48);
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   padding: 2rem;
+}
+.navbar a {
+   color: #fff;
+   text-decoration: none;
+   cursor: pointer;
+}
+.brand {
+   margin-right: 0.5rem;
+}
+.menu ul {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   gap: 1rem;
+}
+
+@media (max-width: 600px) {
+   .navbar {
+      padding: 0.5rem;
+   }
+   .menu ul {
+      gap: 0.5rem;
+   }
+}
